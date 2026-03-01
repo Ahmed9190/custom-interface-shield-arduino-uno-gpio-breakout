@@ -1,0 +1,28 @@
+# KiCad
+*.pro
+*.py
+*-cache/
+*.xml
+*.xsl
+*.dcm
+*.lib
+*.cmp
+*.kicad_pcb
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+*.log
+
+# Autosave
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gerbers (optional - uncomment if you want to exclude)
+# *.gbr
+# *.gtl
+# *.gbl
+# *.gbs
+# *.gbo

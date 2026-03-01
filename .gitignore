@@ -1,5 +1,4 @@
 # KiCad
-*.pro
 *.py
 *-cache/
 *.xml
@@ -7,7 +6,6 @@
 *.dcm
 *.lib
 *.cmp
-*.kicad_pcb
 *.kicad_sch-bak
 *.kicad_pcb-bak
 *.tmp
